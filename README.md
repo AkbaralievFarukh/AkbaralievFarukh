@@ -1,6 +1,6 @@
 ![Header](https://github.com/AkbaralievFarukh/AkbaralievFarukh/blob/main/assets/header.gif)
 
-## I`m beginer Frontend Developer
+## I`m beginner Frontend Developer
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/HTML-E54D26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
