@@ -7,5 +7,3 @@
 ![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 ![JS](https://img.shields.io/badge/JAVASCRIPT-grey?style=for-the-badge&logo=javascript)
 ![JS](https://img.shields.io/badge/REACT-2A2C2E?style=for-the-badge&logo=react)
-
-Follow Me
