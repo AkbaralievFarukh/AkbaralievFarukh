@@ -1,19 +1,10 @@
 ![Header](https://github.com/AkbaralievFarukh/AkbaralievFarukh/blob/main/assets/header.gif)
 
-Hi 👋 My name is Akbaraliev Farukh
+Hi 👋
 ==================================
 
-Frontend Developer
+AKBARALIEV FARUKH
 ------------------
-
-I am an experienced frontend developer with a deep understanding of creating user interfaces for web applications. My technology stack includes HTML, CSS, and JavaScript, as well as modern frameworks such as React and Next.js. I strive to create highly functional, visually appealing, and responsive web pages, ensuring an excellent user experience across different devices and browsers. Collaborating with the backend team, I ensure effective integration of frontend code with the server-side of the application. Keeping up with the latest trends in web development, I continuously evolve my skills to craft modern and innovative user interfaces.
-
-* 🌍  I'm based in Bishkek, Kyrgyzstan
-* 🖥️  See my portfolio at [AkbaralievFarukh.ru](http://akbaralievfarukh.ru/)
-* ✉️  You can contact me at [akbfarukh@gmail.com](mailto:akbfarukh@gmail.com)
-* 🚀  I'm currently working on [Lets Codify](http://letscodify.io/)
-* 🧠  I'm learning Express
-* 🤝  I'm open to collaborating on new projects or new job
 
 ### Skills
 
