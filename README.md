@@ -54,10 +54,6 @@
   <img src="https://streak-stats.demolab.com/?user=AkbaralievFarukh&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkbaralievFarukh&theme=tokyo-night&hide_border=true&radius=12&area=true" alt="Activity Graph" />
-</p>
-
 ---
 
 ## ✍️ Random Dev Quote
